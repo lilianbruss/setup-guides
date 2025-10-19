@@ -7,7 +7,7 @@ You can install OpenCV using any Python package manager. In this guide, we’ll 
 
 ---
 
-## 🧪 Activate Your Virtual Environment
+## Activate Your Virtual Environment
 
 If you've already created a virtual environment with `uv`, activate it:
 - `source .venv/bin/activate`
